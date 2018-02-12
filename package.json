@@ -1,0 +1,23 @@
+{
+  "name": "color-of-the-day",
+  "version": "1.0.0",
+  "description": "Pantone Color of the Day",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzinello/color-of-the-day.git"
+  },
+  "keywords": [
+    "color",
+    "color of the day",
+    "pantone"
+  ],
+  "bin": {
+    "color": "./bin.js"
+  },
+  "author": "Matteo Manzinello",
+  "license": "MIT"
+}
