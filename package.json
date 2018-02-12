@@ -19,5 +19,9 @@
     "color": "./bin.js"
   },
   "author": "Matteo Manzinello",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "request": "^2.83.0"
+  }
 }
