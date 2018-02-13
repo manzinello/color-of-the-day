@@ -1,6 +1,6 @@
 {
   "name": "color-of-the-day",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pantone - Color of the Day",
   "main": "lib/index.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "colorstrology"
   ],
   "bin": {
-    "color": "./bin.js"
+    "color": "./color.js",
+    "object": "./object.js"
   },
   "author": "Matteo Manzinello",
   "license": "MIT",
