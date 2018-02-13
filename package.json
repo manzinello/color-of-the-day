@@ -17,8 +17,7 @@
     "colorstrology"
   ],
   "bin": {
-    "color": "./color.js",
-    "object": "./object.js"
+    "color": "./color.js"
   },
   "author": "Matteo Manzinello",
   "license": "MIT",
