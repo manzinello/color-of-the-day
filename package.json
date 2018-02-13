@@ -13,7 +13,8 @@
   "keywords": [
     "color",
     "color of the day",
-    "pantone"
+    "pantone",
+    "colorstrology"
   ],
   "bin": {
     "color": "./bin.js"
