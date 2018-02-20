@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-var C = require('./lib/')
-C.color();
+var c = require('./lib/')
+c.color();

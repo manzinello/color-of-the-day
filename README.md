@@ -1,9 +1,12 @@
-# Pantone - Color of the Day
+# 🎨 Pantone - Color of the Day
 
 [![NPM](https://nodei.co/npm/color-of-the-day.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/color-of-the-day/)
 
-now just type `color` to have the color of today
+just type `color` to have the color of today directly in the `console`
 
-thanks to [Color of the Day - Colorstrology]
+[Color of the day on Facebook]
 
-[Color of the Day - Colorstrology]: https://www.pantone.com/colorstrology
+thanks to [Pantone Colorstrology]
+
+[Pantone Colorstrology]: https://www.pantone.com/colorstrology
+[Color of the day on Facebook]: https://www.facebook.com/pantonecoloroftheday/

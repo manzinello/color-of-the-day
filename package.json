@@ -1,6 +1,6 @@
 {
   "name": "color-of-the-day",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Pantone - Color of the Day",
   "main": "lib/index.js",
   "scripts": {
