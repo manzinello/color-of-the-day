@@ -1,6 +1,6 @@
 {
   "name": "color-of-the-day",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Pantone - Color of the Day",
   "main": "lib/index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "homepage": "http://color.matteomanzinello.com/",
   "dependencies": {
     "dom-parser": "^0.1.5",
-    "request": "^2.87.0"
+    "request": "^2.88.0"
   }
 }
